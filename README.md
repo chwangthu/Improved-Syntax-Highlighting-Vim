@@ -1,4 +1,3 @@
-Improved-Syntax-Highlighting-Vim
-================================
-
-Improving the syntax highlighting of languages such as Python, c,cpp,java with capabilities of highlighting arithmetic operators,brackets,etc...
+# Vim Syntax Highlight
+## Usage
+Create corresponding file in `.vim/syntax/` and copy into it, by which you can set your personalized vim syntax highlighting.
